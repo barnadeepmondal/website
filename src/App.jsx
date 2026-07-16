@@ -4,7 +4,7 @@ import NewArrival from "./pages/NewArrival"
 import Collections from "./pages/Collections"
 import About from "./pages/About"
 import Layout from "./components/Layout"
-
+import Footer from "./components/Footer"
 const App = () => {
   return (
     <>
