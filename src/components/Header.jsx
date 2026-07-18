@@ -9,7 +9,7 @@ const Header = () => {
         <h1 className="text-[#1A56DB] text-3xl sm:text-4xl lg:text-5xl font-semibold uppercase">
           fashionista
         </h1>
-        <nav className="hidden sm:flex">
+        <nav className="hidden lg:flex">
           <ul className="flex items-center justify-center gap-10">
             <li className="uppercase font-semibold text-gray-600">
               <NavLink
